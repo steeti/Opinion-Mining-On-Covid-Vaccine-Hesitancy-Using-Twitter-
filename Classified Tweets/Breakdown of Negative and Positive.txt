@@ -1,0 +1,21 @@
+FileName:  VaccineSentiment.csv #Negatives:  129259 #positives:  198732 Total:  327991
+Negative Percentage:  39.40931306041934 %
+Positive Percentage:  60.590686939580664 %
+FileName:  PfizerSentiment.csv #Negatives:  64034 #positives:  82721 Total:  146755
+Negative Percentage:  43.633266328234136 %
+Positive Percentage:  56.366733671765864 %
+FileName:  modernaSentiment.csv #Negatives:  23888 #positives:  36334 Total:  60222
+Negative Percentage:  39.66656703530271 %
+Positive Percentage:  60.33343296469729 %
+FileName:  sinopharmSentiment.csv #Negatives:  4169 #positives:  8146 Total:  12315
+Negative Percentage:  33.85302476654486 %
+Positive Percentage:  66.14697523345514 %
+FileName:  JohnsonSentiment.csv #Negatives:  5439 #positives:  18187 Total:  23626
+Negative Percentage:  23.021247777871835 %
+Positive Percentage:  76.97875222212816 %
+FileName:  BoosterSentiment.csv #Negatives:  8669 #positives:  10661 Total:  19330
+Negative Percentage:  44.847387480600105 %
+Positive Percentage:  55.1526125193999 %
+FileName:  antivaxSentiment.csv #Negatives:  22566 #positives:  15777 Total:  38343
+Negative Percentage:  58.85298489946014 %
+Positive Percentage:  41.14701510053986 %
